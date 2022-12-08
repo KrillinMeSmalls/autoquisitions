@@ -16,7 +16,7 @@ FT1CF99D 	Sq_Overhead
 FT1CF99F 	CYO-A
 FT1CF99G	CYO-B
 FT1CF99H	CYO-C
------------------------
+
 
 Optional:
 hold*.txt	# One PASCODE or POSITION_NUMBER per line to not auto fill
@@ -28,7 +28,7 @@ FT1CF99D
 #BILLETS
 10600211C
 10598681C
------------------------
+
 
 Notes:
 Default BLSDM files (alpha roster, upmr, gains listing, & loss listing) will work - no need to re-structure or save them in any other format
