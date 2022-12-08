@@ -10,7 +10,7 @@ loss*.xlsx
 Optional:
 code*.txt	# PASCODE on the left, Custom Label on the right - you can use a space or a tab as the delimiter
 
-Example codes.txt: ----
+Example codes.txt -----
 #PASCODE 	DIRECOTRATE
 FT1CF99D 	Sq_Overhead
 FT1CF99F 	CYO-A
@@ -21,7 +21,7 @@ FT1CF99H	CYO-C
 Optional:
 hold*.txt	# One PASCODE or POSITION_NUMBER per line to not auto fill
 
-Example holds.txt: ----
+Example holds.txt -----
 #PASCODES (Sq Overhead)
 FT1CF99D
 
